@@ -22,3 +22,4 @@ Order-Service:
 Eureka-Server:
   * Used for microservices discovery, Load Balancing and communication.
  
+![image](https://user-images.githubusercontent.com/43819432/210184087-e2d916d9-c37a-44e7-b4bd-7042bca663fa.png)
