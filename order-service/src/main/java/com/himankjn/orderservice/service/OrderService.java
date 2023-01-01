@@ -5,6 +5,7 @@ import com.himankjn.orderservice.model.Order;
 import com.himankjn.orderservice.model.OrderLineItems;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.core.env.Environment;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
